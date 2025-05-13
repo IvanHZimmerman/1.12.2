@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "name": "Eaglercraft_1.12_Offline_en_US.html",
-  "builds": [],
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
-}
