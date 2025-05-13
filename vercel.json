@@ -1,0 +1,9 @@
+
+{
+  "version": 2,
+  "name": "eaglercraft-1122",
+  "builds": [],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
