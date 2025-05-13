@@ -1,9 +1,7 @@
 {
   "version": 2,
   "name": "eaglercraft-1122",
-  "builds": [
-    { "src": "index.html", "use": "@vercel/static" }
-  ],
+  "builds": [],
   "routes": [
     { "src": "/(.*)", "dest": "/index.html" }
   ]
